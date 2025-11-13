@@ -45,7 +45,3 @@ def main():
             user_input = input("Введите дату или q, чтобы выйти:\n")
         else:
             user_input = input("Введите дату или q, чтобы выйти:\n")
-
-
-if __name__ == "__main__":
-    main()
